@@ -1,1 +1,0 @@
-Berikut merupakan lampiran pengumpulan data harga saham harian PT unilever Indonesia Tbk mulai 1 Juli 2020 hingga 27 Juni 2023 diperoleh dari situs resmi Yahoo _Finance_. Dokumen terdiri dari 728 data yang terdiri dari tanggal (_date_), harga pembukaan (_open_), harga tertinggi (_high_), harga terendah (_low_), harga penutup (_close_), dan volume. 
